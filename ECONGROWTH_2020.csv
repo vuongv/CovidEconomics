@@ -1,0 +1,188 @@
+Country,Code,Year,Economic growth
+Afghanistan,AFG,2020,-2.35
+Albania,ALB,2020,-3.48
+Algeria,DZA,2020,-5.1
+Andorra,AND,2020,-11.18
+Angola,AGO,2020,-5.6
+Antigua and Barbuda,ATG,2020,-20.19
+Argentina,ARG,2020,-9.94
+Armenia,ARM,2020,-7.2
+Aruba,ABW,2020,-18.59
+Australia,AUS,2020,-0.05
+Austria,AUT,2020,-6.45
+Azerbaijan,AZE,2020,-4.3
+Bahamas,BHS,2020,-23.82
+Bahrain,BHR,2020,-4.94
+Bangladesh,BGD,2020,3.45
+Barbados,BRB,2020,-13.31
+Belarus,BLR,2020,-0.7
+Belgium,BEL,2020,-5.36
+Belize,BLZ,2020,-13.4
+Benin,BEN,2020,3.85
+Bermuda,BMU,2020,-6.84
+Bhutan,BTN,2020,-10.01
+Bolivia,BOL,2020,-8.74
+Bosnia and Herzegovina,BIH,2020,-3.12
+Botswana,BWA,2020,-8.73
+Brazil,BRA,2020,-3.88
+Brunei,BRN,2020,1.13
+Bulgaria,BGR,2020,-3.96
+Burkina Faso,BFA,2020,1.93
+Burma (Myanmar),MMR,2020,3.17
+Burundi,BDI,2020,0.33
+Cambodia,KHM,2020,-3.1
+Cameroon,CMR,2020,0.26
+Canada,CAN,2020,-5.23
+Cape Verde,CPV,2020,-14.78
+Central African Republic,CAF,2020,0.9
+Chad,TCD,2020,-1.6
+Chile,CHL,2020,-5.98
+China,CHN,2020,2.24
+Colombia,COL,2020,-7.05
+Comoros,COM,2020,-0.2
+Costa Rica,CRC,2020,-4.05
+Croatia,HRV,2020,-8.58
+Cyprus,CYP,2020,-4.37
+Czechia,CZE,2020,-5.5
+Democratic Republic of the Congo,COD,2020,1.74
+Denmark,DNK,2020,-1.99
+Djibouti,DJI,2020,1.2
+Dominica,DMA,2020,-16.6
+Dominican Republic,DOM,2020,-6.72
+Ecuador,ECU,2020,-7.79
+Egypt,EGY,2020,3.57
+El Salvador,SLV,2020,-8.18
+Equatorial Guinea,GNQ,2020,-4.24
+Estonia,EST,2020,-0.55
+Ethiopia,ETH,2020,6.06
+Fiji,FJI,2020,-17
+Finland,FIN,2020,-2.21
+France,FRA,2020,-7.78
+Gabon,GAB,2020,-1.84
+Gambia,GMB,2020,0.59
+Georgia,GEO,2020,-6.76
+Germany,DEU,2020,-3.7
+Ghana,GHA,2020,0.51
+Greece,GRC,2020,-9
+Grenada,GRD,2020,-13.76
+Guatemala,GTM,2020,-1.76
+Guinea,GIN,2020,4.92
+Guinea-Bissau,GNB,2020,-2.4
+Guyana,GUY,2020,43.48
+Haiti,HTI,2020,-3.34
+Honduras,HND,2020,-8.96
+Hong Kong,HKG,2020,-6.55
+Hungary,HUN,2020,-4.55
+Iceland,ISL,2020,-6.84
+India,IND,2020,-6.6
+Indonesia,IDN,2020,-2.07
+Iran,IRN,2020,3.33
+Iraq,IRQ,2020,-11.32
+Ireland,IRL,2020,6.18
+Israel,ISR,2020,-1.86
+Italy,ITA,2020,-9.04
+Ivory Coast,CIV,2020,1.98
+Jamaica,JAM,2020,-10
+Japan,JPN,2020,-4.51
+Jordan,JOR,2020,-1.57
+Kazakhstan,KAZ,2020,-2.5
+Kenya,KEN,2020,-0.25
+Kiribati,KIR,2020,-0.55
+Kuwait,KWT,2020,-8.86
+Kyrgyzstan,KGZ,2020,-8.4
+Laos,LAO,2020,0.5
+Latvia,LVA,2020,-2.2
+Lebanon,LBN,2020,-21.4
+Lesotho,LSO,2020,-8.36
+Liberia,LBR,2020,-2.98
+Libya,LBY,2020,-23.93
+Lithuania,LTU,2020,-0.02
+Luxembourg,LUX,2020,-0.8
+Macao,MAC,2020,-54.24
+Madagascar,MDG,2020,-7.14
+Malawi,MWI,2020,0.8
+Malaysia,MYS,2020,-5.53
+Maldives,MDV,2020,-33.49
+Mali,MLI,2020,-1.24
+Malta,MLT,2020,-8.32
+Mauritania,MRT,2020,-0.94
+Mauritius,MUS,2020,-14.6
+Mexico,MEX,2020,-7.99
+Micronesia,FSM,2020,-1.77
+Moldova,MDA,2020,-7.38
+Monaco,MCO,2020,-12.97
+Mongolia,MNG,2020,-4.56
+Montenegro,MNE,2020,-15.31
+Morocco,MAR,2020,-7.19
+Mozambique,MOZ,2020,-1.23
+Namibia,NAM,2020,-8.04
+Nepal,NPL,2020,-2.37
+Netherlands,NLD,2020,-3.89
+New Zealand,NZL,2020,-1.25
+Nicaragua,NIC,2020,-1.79
+Niger,NER,2020,3.55
+Nigeria,NGA,2020,-1.79
+North Macedonia,MKD,2020,-6.11
+Norway,NOR,2020,-0.72
+Oman,OMN,2020,-3.38
+Pakistan,PAK,2020,-1.27
+Palau,PLW,2020,-9.11
+Palestine,PS,2020,-11.32
+Panama,PAN,2020,-17.94
+Papua New Guinea,PNG,2020,-3.17
+Paraguay,PRY,2020,-0.82
+Peru,PER,2020,-10.95
+Philippines,PHL,2020,-9.52
+Poland,POL,2020,-2.02
+Portugal,PRT,2020,-8.3
+Puerto Rico,PRI,2020,-4.35
+Qatar,QAT,2020,-3.64
+Republic of the Congo,COG,2020,-6.24
+Romania,ROU,2020,-3.68
+Russia,RUS,2020,-2.66
+Rwanda,RWA,2020,-3.36
+Saint Lucia,LCA,2020,-24.36
+Saint Vincent and the Grenadines,VCT,2020,-5.31
+Samoa,WSM,2020,-3.11
+San Marino,SMR,2020,-6.65
+Sao Tome and Principe,STP,2020,3.02
+Saudi Arabia,SAU,2020,-4.14
+Senegal,SEN,2020,1.33
+Serbia,SRB,2020,-0.9
+Seychelles,SYC,2020,-7.69
+Sierra Leone,SLE,2020,-1.97
+Singapore,SGP,2020,-4.14
+Slovakia,SVK,2020,-3.37
+Slovenia,SVN,2020,-4.32
+Solomon Islands,SLB,2020,-3.38
+Somalia,SOM,2020,2.49
+South Africa,ZAF,2020,-6.34
+South Korea,KOR,2020,-0.71
+Spain,ESP,2020,-11.33
+Sri Lanka,LKA,2020,-3.47
+Sudan,SDN,2020,-3.63
+Suriname,SUR,2020,-15.98
+Swaziland,SWZ,2020,-1.56
+Sweden,SWE,2020,-2.17
+Switzerland,CHE,2020,-2.38
+Syria,SYR,2020,-3.87
+Tajikistan,TJK,2020,4.4
+Tanzania,TZA,2020,2
+Thailand,THA,2020,-6.2
+Togo,TGO,2020,1.75
+Tonga,TON,2020,0.49
+Trinidad and Tobago,TTO,2020,-7.68
+Tunisia,TUN,2020,-8.62
+Turkey,TUR,2020,1.94
+Tuvalu,TUV,2020,1.52
+Uganda,UGA,2020,2.95
+Ukraine,UKR,2020,-3.75
+United Arab Emirates,ARE,2020,-4.96
+United Kingdom,GBR,2020,-11.03
+Uruguay,URY,2020,-6.12
+USA,USA,2020,-2.77
+Uzbekistan,UZB,2020,1.89
+Vanuatu,VUT,2020,-5.4
+Vietnam,VNM,2020,2.87
+Zambia,ZMB,2020,-2.79
+Zimbabwe,ZWE,2020,-7.82
